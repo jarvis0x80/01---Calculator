@@ -15,7 +15,7 @@ By working with this project, you will gain experience and understanding in the 
 
 Intro to Desktop App Development with PyQt6
 
-PyQt6 is a Python library that allows you to create desktop applications with graphical user interfaces. In this project, you'll get hands-on experience with PyQt5's key concepts, including:
+PyQt6 is a Python library that allows you to create desktop applications with graphical user interfaces. In this project, you'll get hands-on experience with PyQt6's key concepts, including:
 
 •	Widgets: You'll learn how to create and use various widgets such as buttons, line edits, and layouts.
 
@@ -30,7 +30,7 @@ Getting Started
 2. Ensure you have Python and PyQt6 installed. You can install PyQt6 using pip:
 
    ```bash
-   pip install PyQt5
+   pip install PyQt6
    ```
 
 3. Open the project in your preferred Python IDE or code editor.
