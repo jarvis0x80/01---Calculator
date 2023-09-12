@@ -1,6 +1,6 @@
 Simple Calculator with Python and PyQt6
 
-Welcome to the Simple Calculator project! This project not only provides you with a basic calculator for performing arithmetic calculations but also serves as a hands-on introduction to basic GUI desktop development with Python and PyQt5. In this project, you will be using PyQt6, QtWidgets, and more.
+Welcome to the Simple Calculator project! This project not only provides you with a basic calculator for performing arithmetic calculations but also serves as a hands-on introduction to basic GUI desktop development with Python and PyQt6. In this project, you will be using PyQt6, QtWidgets, and more.
 Features
 
 Calculator Functionality: You can perform basic arithmetic operations, such as addition, subtraction, multiplication, and division, using this calculator.
