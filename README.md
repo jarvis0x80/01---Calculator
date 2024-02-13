@@ -1,10 +1,10 @@
-Simple Calculator with Python and PySide6
+#Simple Calculator with Python and PySide6
 
 Welcome to the Simple Calculator project! This project not only provides you with a basic calculator for performing 
 arithmetic calculations but also serves as a hands-on introduction to basic GUI desktop development with Python 
 and PySide6. In this project, you will be using PySide6, QtWidgets, and more.
 
-Features
+##Features
 
 Calculator Functionality: You can perform basic arithmetic operations, 
 such as addition, subtraction, multiplication, and division, using this 
@@ -16,7 +16,7 @@ answer in your calculations.
 Learning Objectives
 By working with this project, you will gain experience and understanding in the following areas:
 
-Intro to Desktop App Development with PySide6
+#Intro to Desktop App Development with PySide6
 
 PySide6 is a Python library that allows you to create desktop applications with graphical user interfaces. In this 
 project, you'll get hands-on experience with PySide6's key concepts, including:
@@ -25,7 +25,7 @@ Widgets: You'll learn how to create and use various widgets such as buttons, lin
 Signals and Slots: Understand how to connect user interactions (signals) to your custom functions (slots).
 CSS Styling: You'll explore how to style your graphical user interface with CSS.
 
-Getting Started
+##Getting Started
 1. Clone or download this repository to your local machine.
 2. Ensure you have Python and PySide6 installed. You can install PySide6 using pip:
  ```bash
@@ -36,7 +36,7 @@ Getting Started
 implemented.
 5. Experiment and modify the code to enhance your understanding of PySide6 and GUI development.
 
-Contributions
+##Contributions
 
 Feel free to contribute to this project by improving the calculator, adding new features, or enhancing the user 
 interface. Learning by doing is one of the best ways to master GUI development with Python and PySide6.
